@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf571c3d-5c4c-4c28-a38b-b1713522ea1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Homework 3/mojainstitucija/mojainstitucija/src/main/resources/templates/lokacija.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/mojainstitucija/mojainstitucija/src/main/resources/templates/lokacija.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 3/mojainstitucija/mojainstitucija/src/main/resources/templates/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/mojainstitucija/mojainstitucija/src/main/resources/templates/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640087905406</updated>
       <workItem from="1640087907655" duration="2416000" />
+      <workItem from="1640212694201" duration="18000" />
     </task>
     <servers />
   </component>
